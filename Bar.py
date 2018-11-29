@@ -1,4 +1,7 @@
 #coding:utf-8
+"""
+Bar Plot
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 

@@ -79,13 +79,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AM.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AM.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="360">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="e#34#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scatter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scatter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <element signature="e#14#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+              <folding>
+                <element signature="e#14#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,6 +137,8 @@
         <option value="$PROJECT_DIR$/Legend.py" />
         <option value="$PROJECT_DIR$/Annotation.py" />
         <option value="$PROJECT_DIR$/AM.py" />
+        <option value="$PROJECT_DIR$/Scatter.py" />
+        <option value="$PROJECT_DIR$/Bar.py" />
       </list>
     </option>
   </component>
@@ -171,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AM">
+  <component name="RunManager" selected="Python.Bar">
     <configuration name="AM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,6 +232,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="matplotlib_inst" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="Legend" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +266,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SetAxisOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Scatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -235,42 +278,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="matplotlib_inst" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SetAxisOne.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="SetAxisTwo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="matplotlib_inst" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SetAxisTwo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scatter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SetAxisOne" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SetAxisTwo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Legend" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Annotation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AM" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Legend" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Annotation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AM" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Scatter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Bar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AM" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Annotation" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Legend" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SetAxisTwo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SetAxisOne" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Bar" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Scatter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AM" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Annotation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Legend" />
       </list>
     </recent_temporary>
   </component>
@@ -551,10 +577,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="360">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#34#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
           </folding>
         </state>
       </provider>

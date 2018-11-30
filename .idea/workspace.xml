@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ac565ca-f97a-49fc-9135-7b225dbeaac2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AllInOne.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TwoYAxis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -348,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543539847387</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Update Last&quot;">
+      <created>1543560347051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543560347051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,7 +384,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;add instruction&quot;" />
     <MESSAGE value="&quot;3D plot&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;3D plot&quot;" />
+    <MESSAGE value="&quot;Update Last&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Update Last&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
